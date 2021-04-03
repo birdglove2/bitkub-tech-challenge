@@ -1,0 +1,26 @@
+{
+  "name": "bitkub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birdglove2/bitkub-tech-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birdglove2/bitkub-tech-challenge/issues"
+  },
+  "homepage": "https://github.com/birdglove2/bitkub-tech-challenge#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "etherscan-api": "^10.0.5",
+    "nodemon": "^2.0.7"
+  }
+}
